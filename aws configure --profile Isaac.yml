@@ -1,0 +1,5 @@
+aws configure --profile Isaac
+Access key ID : AKIAYSHKVTCPW7W73H3U
+Secret access key: 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
+Region : us-east-2
+aws configure list
